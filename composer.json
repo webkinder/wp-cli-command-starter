@@ -1,0 +1,17 @@
+{
+    "name": "webkinder/wp-cli-command-starter",
+    "type": "wp-cli-package",
+    "license": "MIT",
+    "homepage": "https://webkinder.ch",
+    "authors": [
+        {
+            "name": "Pascal Knecht",
+            "email": "pascal@webkinder.ch"
+        }
+    ],
+    "autoload": {
+      "psr-4": {"WebKinder\\WpCliCommandStarter\\": "lib/"},
+      "files": [ "command.php" ]
+    },
+    "require": {}
+}
