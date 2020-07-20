@@ -3,6 +3,7 @@
     "type": "wp-cli-package",
     "license": "MIT",
     "homepage": "https://webkinder.ch",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Pascal Knecht",
@@ -11,7 +12,7 @@
     ],
     "autoload": {
       "psr-4": {"WebKinder\\WpCliCommandStarter\\": "lib/"},
-      "files": [ "command.php" ]
+      "files": ["command.php"]
     },
     "require": {
         "wp-cli/wp-cli": "^2.4"
