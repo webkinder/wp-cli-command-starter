@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WebKinder WP CLI Command Starter
  * Plugin URI: https://webkinder.ch
- * Description: A set of WP-CLI commands to support the migration of single WordPress instances over to multisite
+ * Description: A set of WP-CLI commands
  * Version: 0.1.0
  * Author: WebKinder
  * Author URI: https://webkinder.ch
