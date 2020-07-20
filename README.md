@@ -14,7 +14,7 @@
 This is a starter repository to create a new WP CLI Command. Adjust to your needs to create your WP CLI Command.
 
 
-## Installation (please write some code first. This packages does not do something useful in itself and is only boilerplate code...)
+## Installation (Adjust the links here. This package is not meant to be installed as it does not do anything useful and is only a starting point for development).
 
 ### Via WP-CLI Package Manager (requires wp-cli >= 0.23)
 ```bash
